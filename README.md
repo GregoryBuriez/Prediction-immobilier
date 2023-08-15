@@ -1,4 +1,4 @@
-Prédiction des Prix de l'Immobilier dans l'État de Washington
+# Prédiction des Prix de l'Immobilier dans l'État de Washington
 
 Ce projet a pour objectif de développer un modèle de prédiction des prix de l'immobilier dans l'État de Washington en utilisant des techniques d'apprentissage automatique. L'objectif principal est de créer un outil fiable permettant aux acheteurs, vendeurs et agents immobiliers d'obtenir des estimations précises des prix des propriétés.
 
